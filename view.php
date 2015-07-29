@@ -12,7 +12,13 @@ require_once('header.php');
 		<th>Actions</th>
 	</tr>
 </thead>
-
+<tr>
+		<th>Pranav</th>
+		<th>Date registered</th>
+		<th>Role</th>
+		<th>Status</th>
+		<th>Actions</th>
+	</tr>
 
 
 </table>

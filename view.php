@@ -13,7 +13,7 @@ require_once('header.php');
 	</tr>
 </thead>
 <tr>
-	<th>Pranav</th>
+	<th>Anand</th>
 	<th>Date registered</th>
 	<th>Role</th>
 	<th>Status</th>

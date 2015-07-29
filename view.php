@@ -12,9 +12,13 @@ require_once('header.php');
 		<th>Actions</th>
 	</tr>
 </thead>
-
-asd d as dsad 
-saDasasdasdas
+<tr>
+	<th>Pranav</th>
+	<th>Date registered</th>
+	<th>Role</th>
+	<th>Status</th>
+	<th>Actions</th>
+</tr>
 </table>
 <?
 require_once('footer.php');

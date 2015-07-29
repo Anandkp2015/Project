@@ -3,7 +3,7 @@ require_once('header.php');
 ?>
 <h1>Login form:</h1>
 <form name="admin login" class="form-horizontal" method="post">
-<label class="control-label">NAME</label>
+<label class="control-label">Pranav</label>
 <div class="controls">
 <input type="text" name="admin[name]" value="" class="span4 typeahead"></div><br/>
 <label class="control-label">PASSWORD</label>
